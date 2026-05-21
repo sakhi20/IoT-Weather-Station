@@ -8,6 +8,8 @@ A real-time IoT-based weather monitoring system built using **Raspberry Pi**, se
 
 To design a **cost-effective**, easy-to-use IoT system that allows real-time monitoring of weather parameters through a web interface—ideal for smart homes, classrooms, or research projects.
 
+*Note: This repository is forked from a collaborative undergraduate project at PDEU. Original work by Prerana Somani, Sakhi Patel, and team.*
+
 ---
 
 ## 📦 Components Used
